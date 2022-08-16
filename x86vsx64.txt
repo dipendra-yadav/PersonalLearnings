@@ -1,0 +1,11 @@
+x86vsx64/ x86 Architecture/Processor 
+===================================
+http://net-informations.com/q/mis/x86.html    //very gud explanation
+https://www.seeedstudio.com/blog/2020/02/24/what-is-x86-architecture-and-its-difference-between-x64/  //
+https://www.partitionwizard.com/partitionmanager/x86-vs-x64.html   //Gud 
+
+
+
+
+Arm Architecture/Processor
+====================================
